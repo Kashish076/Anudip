@@ -1,0 +1,21 @@
+ID,Name,Age,Gender,Marital Status,City,Salary,Payment Method,Amount Spent
+1,Alexander,28,Male,Single,New York,81000,Credit Card,1200
+2,Alice,28,Female,Married,New York,85000,PayPal,1500
+3,Amelia,25,Female,Single,Seattle,68000,Debit Card,900
+4,Charlotte,33,Female,Married,Boston,91000,Credit Card,1700
+5,Daniel,27,Male,Single,Los Angeles,73000,Cash,1100
+6,David,31,Male,Married,New York,102000,Debit Card,1300
+7,Emma,29,Female,Married,Houston,88000,PayPal,1400
+8,Eve,24,Female,Single,San Francisco,70000,Credit Card,1600
+9,Henry,35,Male,Divorced,Miami,95000,Debit Card,1800
+10,Isabella,26,Female,Single,New York,77000,Cash,1000
+11,James,32,Male,Divorced,Chicago,87000,Credit Card,1900
+12,John,34,Male,Married,New York,99000,PayPal,2000
+13,Liam,26,Male,Single,Seattle,69000,Debit Card,950
+14,Maria,32,Female,Married,New York,95000,Cash,1050
+15,Matthew,29,Male,Married,Boston,89000,Credit Card,1150
+16,Mia,31,Female,Divorced,Miami,83000,PayPal,1250
+17,Michael,29,Male,Single,San Francisco,78000,Cash,1350
+18,Olivia,27,Female,Single,Los Angeles,72000,Credit Card,1450
+19,Sophia,30,Female,Divorced,Chicago,80000,PayPal,1550
+20,William,30,Male,Married,Houston,92000,Debit Card,1650
