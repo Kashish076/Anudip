@@ -1,4 +1,4 @@
-# ILT 6
+# ILT 7
 #1. Write a Pandas program to detect missing values of a given DataFrame.
 
 import pandas as pd
@@ -53,3 +53,25 @@ df = df.dropna(how='all')
 df = df.dropna(subset=['ord_no', 'purch_amt'])
 print("\nDrop those rows in which specific columns have missing values:")
 print(df)
+
+# Chatgpt Exercise
+
+import pandas as pd
+
+data = {
+    'Property ID': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    'Price': [300000, 450000, None, 500000, 600000, 700000, None, 750000, 800000, 900000],
+    'Square Footage': [1500, 2000, 2500, 3000, None, 3500, 4000, 4500, 5000, 5500],
+    'Bedrooms': [3, 4, 4, 5, 4, 3, 5, 3, None, 4],
+    'Bathrooms': [2, 3, 3, 4, 3, 2, 4, 2, 3, None],
+    'Location': ['Downtown', 'Suburbs', 'Downtown', 'Suburbs', 'Downtown', 'Rural', 'Rural', 'Suburbs', 'Rural', 'Downtown']
+}
+df = pd.DataFrame(data)
+print("Original Data:")
+print(df)
+df_cleaned = df.dropna()
+df_cleaned = df_cleaned.drop_duplicates()
+df_cleaned.to_csv('cleaned_real_estate_data.csv', index=False)
+
+print("\nCleaned Data:")
+print(df_cleaned)
