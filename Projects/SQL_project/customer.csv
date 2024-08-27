@@ -1,0 +1,112 @@
+customer_id,name,city,email,phone_no,address,pin_code
+3a253b,John Doe,Springfield,john.doe@example.com,555-1234,123 Elm St,62701
+3a253c,Jane Smith,Metropolis,jane.smith@example.com,555-5678,456 Oak Ave,63101
+3a253d,Bob Johnson,Gotham,bob.johnson@example.com,555-8765,789 Pine Rd,54101
+3a253e,Alice Brown,Star City,alice.brown@example.com,555-4321,101 Maple Dr,78901
+3a253f,Michael Davis,Smallville,michael.davis@example.com,555-6789,202 Birch Blvd,43001
+3a2540,Emily Wilson,Bay City,emily.wilson@example.com,555-9876,303 Cedar Ct,32001
+3a2541,David Taylor,Central City,david.taylor@example.com,555-3456,404 Walnut Ln,94001
+3a2542,Susan Anderson,Countryville,susan.anderson@example.com,555-2345,505 Cherry St,53101
+3a2543,James Thomas,Paradise City,james.thomas@example.com,555-6543,606 Elm St,43201
+3a2544,Jessica Martinez,Haven,jessica.martinez@example.com,555-7890,707 Oak Ave,54321
+3a2545,Matthew Rodriguez,Nova City,matthew.rodriguez@example.com,555-8901,808 Pine Rd,98765
+3a2546,Olivia Lee,Harborview,olivia.lee@example.com,555-3457,909 Maple Dr,45678
+3a2547,Daniel Walker,Ocean City,daniel.walker@example.com,555-6781,1010 Birch Blvd,65432
+3a2548,Isabella Hall,Greenfield,isabella.hall@example.com,555-8902,1111 Cedar Ct,78901
+3a2549,Joshua Allen,Elk Ridge,joshua.allen@example.com,555-2346,1212 Walnut Ln,98765
+3a2550,Charlotte Young,Hillside,charlotte.young@example.com,555-4567,1313 Cherry St,87654
+3a2551,Anthony Hernandez,Sunnydale,anthony.hernandez@example.com,555-5679,1414 Elm St,65432
+3a2552,Evelyn King,Newport,evelyn.king@example.com,555-6782,1515 Oak Ave,54321
+3a2553,Christopher Wright,Grandview,christopher.wright@example.com,555-7893,1616 Pine Rd,87654
+3a2554,Amelia Scott,Valleyview,amelia.scott@example.com,555-8903,1717 Maple Dr,78901
+3a2555,Joseph Green,Mapleton,joseph.green@example.com,555-3458,1818 Birch Blvd,43210
+3a2556,Harper Adams,Clearwater,harper.adams@example.com,555-4568,1919 Cedar Ct,98765
+3a2557,Elijah Baker,Lakewood,elijah.baker@example.com,555-5670,2020 Walnut Ln,54321
+3a2558,Abigail Nelson,Crestview,abigail.nelson@example.com,555-6783,2121 Cherry St,65432
+3a2559,Lucas Carter,Evergreen,lucas.carter@example.com,555-7894,2222 Elm St,43210
+3a2560,Zoey Mitchell,Mountainview,zoey.mitchell@example.com,555-8904,2323 Oak Ave,54321
+3a2561,Mason Perez,Riverside,mason.perez@example.com,555-3459,2424 Pine Rd,65432
+3a2562,Victoria Roberts,Westfield,victoria.roberts@example.com,555-4569,2525 Maple Dr,87654
+3a2563,James Phillips,Linden,james.phillips@example.com,555-5671,2626 Birch Blvd,43210
+3a2564,Avery Turner,Seaside,avery.turner@example.com,555-6784,2727 Cedar Ct,87654
+3a2565,Henry Foster,Harborview,henry.foster@example.com,555-7895,2828 Walnut Ln,98765
+3a2566,Sophia Collins,Sunset Valley,sophia.collins@example.com,555-8905,2929 Cherry St,54321
+3a2567,Benjamin Murphy,Woodland,benjamin.murphy@example.com,555-3450,3030 Elm St,43210
+3a2568,Mila Rivera,Highland,mila.rivera@example.com,555-4560,3131 Oak Ave,87654
+3a2569,Jackson Evans,Springfield,jackson.evans@example.com,555-5672,3232 Pine Rd,65432
+3a2570,Lily Cox,Valleyfield,lily.cox@example.com,555-6785,3333 Maple Dr,54321
+3a2571,Alexander Bennett,Riverside,alexander.bennett@example.com,555-7896,3434 Birch Blvd,98765
+3a2572,Grace Jenkins,Meadowbrook,grace.jenkins@example.com,555-8906,3535 Cedar Ct,87654
+3a2573,William Gray,Maplewood,william.gray@example.com,555-3451,3636 Walnut Ln,43210
+3a2574,Scarlett Morris,Creekside,scarlett.morris@example.com,555-4561,3737 Cherry St,54321
+3a2575,Elijah Ward,Lakewood,elijah.ward@example.com,555-5673,3838 Elm St,98765
+3a2576,Eleanor Peterson,Orchard,eleanor.peterson@example.com,555-6786,3939 Oak Ave,87654
+3a2577,Lucas Rogers,Northfield,lucas.rogers@example.com,555-7897,4040 Pine Rd,54321
+3a2578,Chloe Cook,Valleyview,chloe.cook@example.com,555-8907,4141 Maple Dr,43210
+3a2579,James Adams,Oakwood,james.adams@example.com,555-3452,4242 Birch Blvd,87654
+3a2580,Aria Murphy,Westfield,aria.murphy@example.com,555-4562,4343 Cedar Ct,54321
+3a2581,Oliver Hall,Linden,oliver.hall@example.com,555-5674,4444 Walnut Ln,98765
+3a2582,Emma Bailey,Countryville,emma.bailey@example.com,555-6787,4545 Cherry St,87654
+3a2583,Aiden Carter,Springfield,aiden.carter@example.com,555-7898,4646 Elm St,54321
+3a2584,Sophia Nelson,Greenfield,sophia.nelson@example.com,555-8908,4747 Oak Ave,43210
+3a2585,Elijah Turner,Sunnydale,elijah.turner@example.com,555-3453,4848 Pine Rd,98765
+3a2586,Isabella Phillips,Clearwater,isabella.phillips@example.com,555-4563,4949 Maple Dr,87654
+3a2587,Matthew Young,Northfield,matthew.young@example.com,555-5675,5050 Birch Blvd,54321
+3a2588,Olivia Gonzalez,Highland,olivia.gonzalez@example.com,555-6788,5151 Cedar Ct,98765
+3a2589,Daniel Allen,Valleyview,daniel.allen@example.com,555-7899,5252 Walnut Ln,87654
+3a2590,Emily Collins,Ocean City,emily.collins@example.com,555-8909,5353 Cherry St,54321
+3a2591,James Johnson,Meadowbrook,james.johnson@example.com,555-3454,5454 Elm St,43210
+3a2592,Lily Martin,Greenfield,lily.martin@example.com,555-4564,5555 Oak Ave,87654
+3a2593,Oliver Martinez,Westfield,oliver.martinez@example.com,555-5676,5656 Pine Rd,54321
+3a2594,Avery Wright,Clearwater,avery.wright@example.com,555-6789,5757 Maple Dr,98765
+3a2595,Charlotte Lewis,Elk Ridge,charlotte.lewis@example.com,555-7890,5858 Birch Blvd,87654
+3a2596,Benjamin Scott,Lakewood,benjamin.scott@example.com,555-8901,5959 Cedar Ct,43210
+3a2597,Harper Carter,Valleyview,harper.carter@example.com,555-3455,6060 Walnut Ln,54321
+3a2598,Elijah Davis,Sunset Valley,elijah.davis@example.com,555-4565,6161 Cherry St,98765
+3a2599,Amelia Young,Springfield,amelia.young@example.com,555-5677,6262 Elm St,87654
+3a2600,Lucas Nelson,Meadowbrook,lucas.nelson@example.com,555-6780,6363 Oak Ave,54321
+3a2601,Zoey Anderson,Maplewood,zoey.anderson@example.com,555-7891,6464 Pine Rd,87654
+3a2602,Henry Walker,Sunnydale,henry.walker@example.com,555-8902,6565 Maple Dr,43210
+3a2603,Evelyn Green,Riverside,evelyn.green@example.com,555-3456,6666 Birch Blvd,54321
+3a2604,David Hall,Valleyfield,david.hall@example.com,555-4566,6767 Cedar Ct,87654
+3a2605,Grace Adams,Clearwater,grace.adams@example.com,555-5678,6868 Walnut Ln,98765
+3a2606,Joshua Morris,Ocean City,joshua.morris@example.com,555-6781,6969 Cherry St,54321
+3a2607,Chloe Young,Greenfield,chloe.young@example.com,555-7892,7070 Elm St,87654
+3a2608,James Scott,Meadowbrook,james.scott@example.com,555-8903,7171 Oak Ave,54321
+3a2609,Aria Carter,Harborview,aria.carter@example.com,555-3457,7272 Pine Rd,98765
+3a2610,Oliver Phillips,Maplewood,oliver.phillips@example.com,555-4567,7373 Maple Dr,87654
+3a2611,Emily Davis,Valleyfield,emily.davis@example.com,555-5679,7474 Birch Blvd,54321
+3a2612,Matthew Turner,Riverside,matthew.turner@example.com,555-6782,7575 Cedar Ct,98765
+3a2613,Lily Evans,Clearwater,lily.evans@example.com,555-7893,7676 Walnut Ln,43210
+3a2614,Elijah Adams,Northfield,elijah.adams@example.com,555-8904,7777 Cherry St,87654
+3a2615,Chloe Hernandez,Harborview,chloe.hernandez@example.com,555-3458,7878 Elm St,54321
+3a2616,Henry Green,Greenfield,henry.green@example.com,555-4568,7979 Oak Ave,98765
+3a2617,Abigail Lee,Valleyview,abigail.lee@example.com,555-5670,8080 Pine Rd,43210
+3a2618,Joshua Adams,Mapleton,joshua.adams@example.com,555-6783,8181 Maple Dr,54321
+3a2619,Grace Martinez,Highland,grace.martinez@example.com,555-7894,8282 Birch Blvd,98765
+3a2620,David Taylor,Sunnydale,david.taylor@example.com,555-8905,8383 Cedar Ct,87654
+3a2621,Charlotte Wright,Northfield,charlotte.wright@example.com,555-3459,8484 Walnut Ln,54321
+3a2622,Mason Carter,Clearwater,mason.carter@example.com,555-4569,8585 Cherry St,43210
+3a2623,Amelia Robinson,Valleyfield,amelia.robinson@example.com,555-5671,8686 Elm St,87654
+3a2624,Lucas Gonzalez,Greenfield,lucas.gonzalez@example.com,555-6784,8787 Oak Ave,54321
+3a2625,Emily Roberts,Meadowbrook,emily.roberts@example.com,555-7895,8888 Pine Rd,43210
+3a2626,Oliver Walker,Harborview,oliver.walker@example.com,555-8906,8989 Maple Dr,87654
+3a2627,Aiden Johnson,Sunnydale,aiden.johnson@example.com,555-3450,9090 Birch Blvd,54321
+3a2628,Sophia Williams,Greenfield,sophia.williams@example.com,555-4560,9191 Cedar Ct,43210
+3a2629,James Lewis,Westfield,james.lewis@example.com,555-5671,9292 Walnut Ln,98765
+3a2630,Chloe Martinez,Harborview,chloe.martinez@example.com,555-6785,9393 Cherry St,87654
+3a2631,William White,Valleyview,william.white@example.com,555-7896,9494 Elm St,54321
+3a2632,Aria Scott,Meadowbrook,aria.scott@example.com,555-8907,9595 Oak Ave,43210
+3a2633,Lucas Allen,Northfield,lucas.allen@example.com,555-3451,9696 Pine Rd,54321
+3a2634,Mila Taylor,Greenfield,mila.taylor@example.com,555-4561,9797 Maple Dr,87654
+3a2635,Henry Young,Springfield,henry.young@example.com,555-5672,9898 Birch Blvd,43210
+3a2636,Evelyn Brown,Sunnydale,evelyn.brown@example.com,555-6786,9999 Cedar Ct,54321
+3a2637,Charlotte Hall,Ocean City,charlotte.hall@example.com,555-7897,10101 Walnut Ln,87654
+3a2638,James Carter,Meadowbrook,james.carter@example.com,555-8908,11111 Cherry St,54321
+3a2639,Grace White,Clearwater,grace.white@example.com,555-3452,12121 Maple Dr,98765
+3a2640,Joshua Young,Westfield,joshua.young@example.com,555-4564,13131 Pine Rd,87654
+3a2641,Amelia Green,Harborview,amelia.green@example.com,555-5675,14141 Birch Blvd,54321
+3a2642,Oliver Hall,Sunnydale,oliver.hall@example.com,555-6789,15151 Cedar Ct,43210
+3a2643,Emily Adams,Greenfield,emily.adams@example.com,555-7896,16161 Oak Ave,54321
+3a2644,David Harris,Harborview,david.harris@example.com,555-8907,17171 Walnut Ln,98765
+3a2645,Charlotte Lewis,Greenfield,charlotte.lewis@example.com,555-3456,18181 Cherry St,43210

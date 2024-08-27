@@ -1,4 +1,3 @@
-# ILT 4
 # 1. Visualize the daily temperature changes over time in a city and give your conclusion
 
 import matplotlib.pyplot as plt

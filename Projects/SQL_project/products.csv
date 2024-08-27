@@ -1,0 +1,51 @@
+product_id,product_name,category,sub_category,original_price,selling_price,stock
+p001,Wireless Mouse,Electronics,Computer Accessories,25.99,18.99,150
+p002,USB Keyboard,Electronics,Computer Accessories,39.99,29.99,200
+p003,Smartphone Case,Electronics,Mobile Accessories,15.99,10.99,300
+p004,LED Monitor,Electronics,Computer Peripherals,199.99,159.99,50
+p005,External Hard Drive,Electronics,Storage Devices,89.99,69.99,80
+p006,Desk Lamp,Furniture,Office Furniture,49.99,39.99,60
+p007,Office Chair,Furniture,Office Furniture,129.99,99.99,45
+p008,Gaming Console,Electronics,Video Games,299.99,249.99,40
+p009,Wireless Headphones,Electronics,Audio Accessories,79.99,59.99,120
+p010,HD Webcam,Electronics,Computer Peripherals,89.99,69.99,90
+p011,Blender,Home Appliances,Kitchen Appliances,49.99,39.99,70
+p012,Toaster,Home Appliances,Kitchen Appliances,29.99,22.99,85
+p013,Air Purifier,Home Appliances,Home Care,119.99,99.99,55
+p014,Vacuum Cleaner,Home Appliances,Home Care,159.99,139.99,30
+p015,Smart TV,Electronics,Home Entertainment,499.99,399.99,20
+p016,Digital Camera,Electronics,Photography,299.99,249.99,25
+p017,Bluetooth Speaker,Electronics,Audio Accessories,59.99,49.99,110
+p018,Phone Charger,Electronics,Mobile Accessories,12.99,9.99,250
+p019,Portable Fan,Home Appliances,Home Comfort,19.99,14.99,150
+p020,Electric Kettle,Home Appliances,Kitchen Appliances,39.99,29.99,65
+p021,Hand Mixer,Home Appliances,Kitchen Appliances,29.99,22.99,80
+p022,Smartwatch,Electronics,Wearables,199.99,179.99,35
+p023,Digital Thermometer,Home Appliances,Health Care,25.99,19.99,140
+p024,Table Lamp,Furniture,Office Furniture,39.99,29.99,75
+p025,Floor Rug,Furniture,Home Decor,89.99,69.99,60
+p026,Wall Art,Furniture,Home Decor,49.99,39.99,85
+p027,Bath Towels,Home Textiles,Bathroom Accessories,19.99,14.99,200
+p028,Shower Curtain,Home Textiles,Bathroom Accessories,14.99,11.99,190
+p029,Comforter Set,Home Textiles,Bedroom Accessories,79.99,59.99,100
+p030,Throw Pillows,Home Textiles,Decorative Accessories,24.99,18.99,130
+p031,Microwave Oven,Home Appliances,Kitchen Appliances,129.99,99.99,45
+p032,Fridge Organizer,Home Appliances,Kitchen Storage,19.99,14.99,150
+p033,Handheld Vacuum,Home Appliances,Home Care,89.99,69.99,70
+p034,Electric Grill,Home Appliances,Kitchen Appliances,149.99,129.99,50
+p035,Compact Dishwasher,Home Appliances,Kitchen Appliances,399.99,349.99,25
+p036,Smart Home Hub,Electronics,Smart Home,129.99,99.99,55
+p037,Security Camera,Electronics,Smart Home,149.99,129.99,45
+p038,Smart Light Bulbs,Electronics,Smart Home,29.99,22.99,100
+p039,Portable Heater,Home Appliances,Home Comfort,49.99,39.99,75
+p040,Space Heater,Home Appliances,Home Comfort,69.99,59.99,60
+p041,Tableware Set,Home Textiles,Kitchenware,59.99,49.99,85
+p042,Glassware Set,Home Textiles,Kitchenware,39.99,29.99,95
+p043,Cutlery Set,Home Textiles,Kitchenware,29.99,22.99,110
+p044,Pantry Storage Containers,Home Textiles,Kitchen Storage,24.99,19.99,140
+p045,Storage Bins,Home Textiles,Home Organization,19.99,15.99,150
+p046,Pet Bed,Furniture,Pet Supplies,49.99,39.99,60
+p047,Cat Tree,Furniture,Pet Supplies,89.99,69.99,45
+p048,Dog Leash,Pet Supplies,Pet Supplies,14.99,11.99,80
+p049,Pet Carrier,Furniture,Pet Supplies,59.99,49.99,35
+p050,Dog Food Bowl,Furniture,Pet Supplies,19.99,14.99,70
